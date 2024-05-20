@@ -13,6 +13,27 @@ title : "MUG RESTING DRAGON 473ml",
 desc : "Resting dragon and their keeper are nestled on a ceramic mug....",
 price : "1700",
 image :"https://starbucksstatic.cognizantorderserv.com/Items/Small/114615_1.png"
+  } ,
+  {
+    id:"m-2" , 
+title : "MUG RESTING DRAGON 473ml",
+desc : "Resting dragon and their keeper are nestled on a ceramic mug....",
+price : "1700",
+image :"https://starbucksstatic.cognizantorderserv.com/Items/Small/114615_1.png"
+  } ,
+  {
+    id:"m-2" , 
+title : "MUG RESTING DRAGON 473ml",
+desc : "Resting dragon and their keeper are nestled on a ceramic mug....",
+price : "1700",
+image :"https://starbucksstatic.cognizantorderserv.com/Items/Small/114615_1.png"
+  } ,
+  {
+    id:"m-2" , 
+title : "MUG RESTING DRAGON 473ml",
+desc : "Resting dragon and their keeper are nestled on a ceramic mug....",
+price : "1700",
+image :"https://starbucksstatic.cognizantorderserv.com/Items/Small/114615_1.png"
   }
 
 ]
