@@ -1,5 +1,4 @@
 import React from 'react'
-<<<<<<< HEAD
 import { MdLocationOn } from "react-icons/md";
 import { AiOutlineClockCircle } from "react-icons/ai";
 import { NavLink, Outlet } from 'react-router-dom';
@@ -36,12 +35,6 @@ const Order = () => {
 
       </div>
     </div>
-=======
-
-const Order = () => {
-  return (
-    <div>Order</div>
->>>>>>> 07c02c3d7e85c719bc9f548e729c9135d6821b30
   )
 }
 

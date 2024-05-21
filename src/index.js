@@ -17,10 +17,7 @@ import GiftFeature from './component/GiftFeature';
 import GiftAnytime from './component/GiftAnytime';
 import GiftCong from './component/GiftCong';
 import GiftThank from './component/GiftThank';
-<<<<<<< HEAD
 import OrderMerchandise from './component/OrderMerchandise';
-=======
->>>>>>> 07c02c3d7e85c719bc9f548e729c9135d6821b30
 
 
 const router = createBrowserRouter(createRoutesFromElements(
@@ -34,13 +31,9 @@ const router = createBrowserRouter(createRoutesFromElements(
         <Route path='Congratulations' element={<GiftCong/>}/>
         <Route path='thank' element={<GiftThank/>}/>
       </Route>
-<<<<<<< HEAD
       <Route path='/ordering' element={<Order />} > 
             <Route path='' element={<OrderMerchandise />}/>
       </Route>
-=======
-      <Route path='/ordering' element={<Order />} />
->>>>>>> 07c02c3d7e85c719bc9f548e729c9135d6821b30
       <Route path='/pay' element={<Pay />} />
       <Route path='/store' element={<Store />} />
       <Route path='/profile' element={<Profile />} />

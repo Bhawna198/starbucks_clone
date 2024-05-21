@@ -41,12 +41,8 @@ const Header = () => {
             </div>
 
             {/* mobile version  */}
-<<<<<<< HEAD
             {
                 location === "/dashboard" &&   <div className='h-40 sm:hidden overflow-hidden relative '>
-=======
-            <div className='h-40 sm:hidden overflow-hidden relative '>
->>>>>>> 07c02c3d7e85c719bc9f548e729c9135d6821b30
                 <div className=''>
                     <img src={welcomeImage} />
                 </div>
@@ -61,11 +57,8 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
             }
           
-=======
->>>>>>> 07c02c3d7e85c719bc9f548e729c9135d6821b30
 
             <div className='fixed bottom-0 flex justify-between w-full bg-white sm:hidden z-50 '>
                 <div className='flex items-center flex-col p-4 bg-white w-full'>

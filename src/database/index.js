@@ -265,9 +265,6 @@ export const giftProduct = [
         img : giftFeature17,
         category : ["thank"]
     },
-<<<<<<< HEAD
+
 ]
 
-=======
-]
->>>>>>> 07c02c3d7e85c719bc9f548e729c9135d6821b30
